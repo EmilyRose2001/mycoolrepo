@@ -1,23 +1,72 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Determining whether an owlet from a caged Eurasian-Eagle owl is the result of parthenogenesis or hybridization. If the owlet is the result of hybridization, then determining what owl species hybridized with the Eurasian-Eagle owl is investigated."
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "Determining whether an owlet from a caged Eurasian-Eagle owl is the result of parthenogenesis or hybridization. If the owlet is the result of hybridization, then determining what owl species hybridized with the Eurasian-Eagle owl is investigated."
+  },
+  {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
     "section": "Project 2",
-    "text": "Project 2"
+    "text": "Project 2\nRecreation of the study done by Liu et al. on the potential use of the large language model ‘iLLMAC’ to diagnose cancer from cell-free DNA."
   },
   {
     "objectID": "projects.html#project-3",
     "href": "projects.html#project-3",
     "title": "Projects",
     "section": "Project 3",
-    "text": "Project 3"
+    "text": "Project 3\nGenerate a GFF file for a prokaryote in python."
+  },
+  {
+    "objectID": "extra_tab.html",
+    "href": "extra_tab.html",
+    "title": "Extra Tab",
+    "section": "",
+    "text": "Showing that I can create another tab for my website"
+  },
+  {
+    "objectID": "extra_tab.html#header-for-extra-tab",
+    "href": "extra_tab.html#header-for-extra-tab",
+    "title": "Extra Tab",
+    "section": "",
+    "text": "Showing that I can create another tab for my website"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "Graduate in the Spring with my master’s\nFind a job in bioinformatics - ideally in the area of disease or pharmacogenomics research\n\n\n\nBioinformatics M.S. - University of New Hampshire - Expected Spring 2026\nBiotechnology B.S. - University of New Hampshire at Manchester - 2023\n\n\n\n2 semesters researching in the bioinformatics section of the Hubbard Center for Genome Studies at UNH\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "",
+    "text": "Graduate in the Spring with my master’s\nFind a job in bioinformatics - ideally in the area of disease or pharmacogenomics research"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "Bioinformatics M.S. - University of New Hampshire - Expected Spring 2026\nBiotechnology B.S. - University of New Hampshire at Manchester - 2023"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Me",
+    "section": "",
+    "text": "2 semesters researching in the bioinformatics section of the Hubbard Center for Genome Studies at UNH"
   }
 ]

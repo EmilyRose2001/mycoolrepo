@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - projects.qmd
+      - extra_tab.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/
@@ -20,7 +21,7 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: Morph
     toc: true
 
 editor: source

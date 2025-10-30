@@ -3,16 +3,26 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/IMG_4789.jpg
 ---
 
 :::{#me}
 
 ## Goals
 
+Graduate in the Spring with my master's
+
+Find a job in bioinformatics - ideally in the area of disease or pharmacogenomics research
+
 ## Education
 
+Bioinformatics M.S. - *University of New Hampshire - Expected Spring 2026*
+
+Biotechnology B.S. - *University of New Hampshire at Manchester - 2023*
+
 ## Experience
+
+2 semesters researching in the bioinformatics section of the Hubbard Center for Genome Studies at UNH
 
 :::
 

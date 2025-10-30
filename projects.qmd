@@ -4,6 +4,12 @@ title: "Projects"
 
 ## Project 1
 
+Determining whether an owlet from a caged Eurasian-Eagle owl is the result of parthenogenesis or hybridization. If the owlet is the result of hybridization, then determining what owl species hybridized with the Eurasian-Eagle owl is investigated.
+
 ## Project 2
 
+Recreation of the study done by Liu et al. on the potential use of the large language model 'iLLMAC' to diagnose cancer from cell-free DNA.
+
 ## Project 3
+
+Generate a GFF file for a prokaryote in python.

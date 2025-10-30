@@ -1,0 +1,7 @@
+---
+title: "Extra Tab"
+---
+
+## Header for extra tab
+
+Showing that I can create another tab for my website
